@@ -1,9 +1,9 @@
 There may be other better ways to do it. This is my method.
 
 <h1>Instructions:</h1>
-
-npm install
-
-npm start
+<ul>
+  <li>npm install</li>
+  <li>npm start</li>
+</ul>
 
 You need nodejs.
