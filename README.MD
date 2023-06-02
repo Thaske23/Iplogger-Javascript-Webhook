@@ -1,6 +1,6 @@
 There may be other better ways to do it. This is my method.
 
-Instructions:
+<h1>Instructions:</h1>
 
 npm install
 
