@@ -5,4 +5,4 @@ Instructions:
 npm install and
 npm start
 
-You need nodejs, and ya.
+You need nodejs.
