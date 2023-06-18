@@ -7,4 +7,4 @@ There may be other better ways to do it. This is my method.
   <li>npm start</li>
 </ul>
 
-You need nodejs. And need deploy this
+You need nodejs. And deploy this
